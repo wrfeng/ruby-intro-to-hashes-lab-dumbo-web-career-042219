@@ -32,7 +32,7 @@ def monopoly_with_third_tier
 	     one_piece_owned: 25,
 	     two_peices_owned: 50,
 	     three_peices_owned: 100,
-	     four_peices_owned: 100
+	     four_peices_owned: 200
 	    }
 	  }
 	}
