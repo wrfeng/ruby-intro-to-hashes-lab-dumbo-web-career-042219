@@ -23,12 +23,7 @@ def monopoly_with_second_tier
 	      b_and_o_railroad: {},
 	      shortline: {}
 	    },
-	    rent_in_dollars: {
-	     one_piece_owned: 25,
-	     two_peices_owned: 50,
-	     three_peices_owned: 100,
-	     four_peices_owned: 200
-	    }
+	    rent_in_dollars: {}
 	  }
 	}
 
@@ -38,18 +33,8 @@ def monopoly_with_third_tier
 		monopoly = {
 	  railroads: {
 	    peices: 4,
-	    names: {
-	      reading_railroad: {},
-	      pennsylvania_railroad: {},
-	      b_and_o_railroad: {},
-	      shortline: {}
-	    },
-	    rent_in_dollars: {
-	     one_piece_owned: 25,
-	     two_peices_owned: 50,
-	     three_peices_owned: 100,
-	     four_peices_owned: 200
-	    }
+	    names: {},
+	    rent_in_dollars: {}
 	  }
 	}
 end
